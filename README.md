@@ -1,8 +1,8 @@
 # Voter Behavior Prediction Using Large Language Models
 
-## About
+## Abstract
 
-This repository explores the application of large language models (LLMs) to predict voter behavior based on social media data. By integrating demographic data with tweets, this study assesses how different LLMs perform in predicting voter preferences, focusing on the importance of data diversity for enhancing accuracy and minimizing biases. The repository includes all necessary resources to replicate our findings and further explore LLMs' potential in social science.
+This article explores how large language models (LLMs) can reflect human preferences and exhibit biases based on the diversity and type of input data. Utilizing survey data linked with tweets, we compare the predictive performance and bias manifestations of LLMs under three different data inclusion strategies: (1) using only demographic information, (2) combining demographic information with tweets, and (3) exclusively using tweets. The study finds that prompts enriched with tweets notably improve the predictive accuracy of models compared to those relying solely on demographic data. More importantly, the inclusion of dynamic, user-generated content like tweets not only reduces the oversimplification of individual identities but also lessens inherent biases, leading to more accurate and representative simulations of voter behavior. These findings underscore the critical role of data variety in LLM-based simulations, suggesting that integrating richer, real-time data sources can effectively diminish biases and enhance the models' ability to simulate complex human characteristics.
 
 ## Table of Contents
 
@@ -69,8 +69,20 @@ Detailed results from various LLMs are stored in the `results` directory:
 - Davinci-002 results: `results/results_davinci-002_20240519162857.json`
 - GPT-3.5 Turbo results: `results/results_gpt-3.5-turbo-0125_20240519153306.json`
 - GPT-4 results: `results/results_gpt-4o-2024-05-13_20240519155949.json`
+## Citing This Work
+
+If you find the content of this repository useful in your research, please cite the following paper:
+
+```
+@inproceedings{barkhordar2024assessing,
+  title={Assessing the Predictive Power of Social Media Data-Fed Large Language Models on Voter Behavior},
+  author={Barkhordar, Ehsan and Atsizelti, Şükrü},
+  booktitle={Proceedings of the ACM Conference},
+  year={2024},
+  doi={10.1145/3630744.3659831}
+}
+```
 
 ## License
 
 This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
