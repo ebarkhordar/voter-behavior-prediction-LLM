@@ -38,7 +38,7 @@ for index, row in tqdm(df_survey_data.iterrows(), total=len(df_survey_data), des
         print(f"File not found: {os.path.join(directory, expected_file_name)}")
 
 # Save the dictionary to a JSON file
-with open('dataset/tweets_data.json', 'w', encoding='utf-8') as file:
+with open('../dataset/tweets_data.json', 'w', encoding='utf-8') as file:
     json.dump(tweets_data, file, ensure_ascii=False, indent=4)
 
 print("Tweets data saved to 'tweets_data.json'")
