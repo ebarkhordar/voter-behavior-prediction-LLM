@@ -1,0 +1,902 @@
+{
+    "coscosgg": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "zbayzdemir1": {
+        "prompt1": "Based on the information provided, you most likely voted for Kemal Kılıçdaroğlu.",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "halilaltinay": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ucurtmam": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "suvuck": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kahwedelisi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "yesimozn": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "muuguney": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "cidominko": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "lutfiduran3": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sitivingerrard": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "chatdenoir1": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "emekorh": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "bircelicious": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "omercakir31": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "moondialmi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "tamortadangel": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mertaliavc": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "ylcn31": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "eyllbng": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "tu_ylmz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "missyuksel": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "karabulutylmz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "seherdemkoc": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "su_sebnem": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "semraalkan6": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "acarmob": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "bayrakliseval": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "akujinnn1": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kodaknihat": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "buyasemin": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "nurr_nurr": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ayseboren1": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ismetgencerr": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "netgolgo": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "meri_g35": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu."
+    },
+    "secilyabenli": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "vanteluzia": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "talatcemalenver": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "mesudeak": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu."
+    },
+    "dilekiran": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "procekts34": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kemal Kılıçdaroğlu.",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mmsigin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sennnem": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "nazimsaglam": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "busraarkan_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "denizcemsahin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "y_emresecinti": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ozalpsenay": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kaosihbar": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "albatrosati": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kemal Kılıçdaroğlu"
+    },
+    "rehber_20": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "poyrazli": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "alatay00007375": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "tanerotti44": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "mevaaa_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kemal Kılıçdaroğlu"
+    },
+    "u_task": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu.",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dr_zeynepyilmaz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "aranizdanbirkiz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "You did not mention either Kemal Kılıçdaroğlu or Recep Tayyip Erdoğan in your tweets."
+    },
+    "dumanbey18": {
+        "prompt1": "You voted for Kemal Kılıçdaroğlu.",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "muhalif_dede": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cf4thew": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cekilsurdan_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "fatmaadali": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mhayirsiz3418": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "serhaterkin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "orhanou51841202": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kemal Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "oguzmustafa": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "fusunneksi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "aphasiainstrume": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kemal Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mhrmkystl": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "omergurler1960": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "aliozcllk": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "You voted for Kılıçdaroğlu."
+    },
+    "adnanserpen": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ercan006": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "fasc1nati0n": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "edatuzcuuu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kemal Kılıçdaroğlu"
+    },
+    "mnrdn": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Recep Tayyip Erdoğan."
+    },
+    "psifel": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kemal Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "memeenjoyer2": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mehmetaliglpna2": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ersengulenc": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "hasanergene": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan."
+    },
+    "maun35": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dilarak_ra": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "deniz44eylul": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "yaslimarti": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sheriffs_k": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kemal Kılıçdaroğlu"
+    },
+    "kadirceceli": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kemal Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mustafadogru_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "n1943_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ilhamiacun": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "mervehasar6": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "samisatan": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "jkmentality": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "saniyeatabey": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "emine": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu."
+    },
+    "cevdetyilmaz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ivazerkan": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "acerciz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "kunasmile": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ibrahimtylgl": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "zeynepaktay": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "berkuist": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "fahrettinaltun_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ugurerdem_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "korayankara89": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ugurbesiktas55": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cemsahbaz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan.",
+        "prompt3": "Erdoğan"
+    },
+    "furkantamirci": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "sanane": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "taspinarisa": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "farukpaluluoglu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kemal Kılıçdaroğlu"
+    },
+    "bhczr": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "nursemuhammed": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "drannee": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dindarcihaner": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "selamikamiloglu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "drcenkyilmaz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "beyazrenkler": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "eneyasemen": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sedsu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "theseyda_7418": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "There is no information in your tweets that indicates a clear preference for either Kemal Kılıçdaroğlu or Recep Tayyip Erdoğan. Therefore, I cannot determine whom you would have voted for in the 2023 Turkish presidential elections based on your tweets."
+    },
+    "ozlemyarenn": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sbyenimol": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sahafhakki": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "melikeisbored": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "gumrukcuoglu61": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "granieve": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "eelmasssudee": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "neslihanyslgl": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "kurtmemet68": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "guser1r": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sineemly": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "mufmetin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "nurullahcoskun": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "hasangenc": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "pptyaaz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "yigidim19": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "inceselahattin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "aemek38": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "glamdring2004": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ahmetesenler": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "hseyninar12125": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kemal Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mah_dum": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "karakaya_x": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ayfer02156519": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "alikara1905": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "dtzeynepguven": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "enginmeral20": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "jexistediyorum": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "savasbuyuk": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "bedirhan80": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "hafi2e": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "suayipsanay": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mhrmsln": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ustuncansav": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cihansahiin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sewurt": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Kemal Kılıçdaroğlu"
+    },
+    "makarachi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "emak": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "yesimborek": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ikraozgn": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "coolmanyas": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mungan06": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "bordovira61": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "bi_merdumgirizz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "tilmiz_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "adilhazar": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Bahçeli",
+        "prompt3": "Erdoğan"
+    },
+    "rtnhbo": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "zubeydekosker": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "alim_albayrak": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan.",
+        "prompt3": "Recep Tayyip Erdoğan"
+    },
+    "bahareyn": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "kusayer": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mkkorkmazz61": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "zekiserttas": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "hamzaatunc": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "paptya727": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Recep Tayyip Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mstfhayri": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "zehros357": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    }
+}

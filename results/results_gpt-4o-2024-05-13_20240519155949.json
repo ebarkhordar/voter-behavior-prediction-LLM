@@ -1,0 +1,902 @@
+{
+    "coscosgg": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "zbayzdemir1": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "halilaltinay": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ucurtmam": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "suvuck": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kahwedelisi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "yesimozn": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "muuguney": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "cidominko": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "lutfiduran3": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sitivingerrard": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "chatdenoir1": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "emekorh": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "bircelicious": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "omercakir31": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "moondialmi": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "tamortadangel": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mertaliavc": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ylcn31": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "eyllbng": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "tu_ylmz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "missyuksel": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "karabulutylmz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "seherdemkoc": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "I’m sorry, but with the information provided, I can't determine whom you voted for in the 2023 Turkish presidential elections."
+    },
+    "su_sebnem": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "semraalkan6": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "acarmob": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "bayrakliseval": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "akujinnn1": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kodaknihat": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "buyasemin": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "nurr_nurr": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ayseboren1": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ismetgencerr": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "netgolgo": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "meri_g35": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "secilyabenli": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Without the content of the tweets, I cannot determine whom you voted for. If you provide the tweets, I can analyze them to identify your preference."
+    },
+    "vanteluzia": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "talatcemalenver": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mesudeak": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dilekiran": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "procekts34": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mmsigin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sennnem": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "nazimsaglam": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "busraarkan_": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "denizcemsahin": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "y_emresecinti": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ozalpsenay": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kaosihbar": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "albatrosati": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "rehber_20": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "poyrazli": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "alatay00007375": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "tanerotti44": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mevaaa_": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "u_task": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dr_zeynepyilmaz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "aranizdanbirkiz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "dumanbey18": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "muhalif_dede": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "cf4thew": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cekilsurdan_": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "fatmaadali": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mhayirsiz3418": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "serhaterkin": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "orhanou51841202": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "oguzmustafa": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "I can't determine which candidate you supported without more information or analysis of your tweets. Could you provide content or more context from your tweets for accurate analysis?"
+    },
+    "fusunneksi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "aphasiainstrume": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mhrmkystl": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "omergurler1960": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "aliozcllk": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "I'm sorry, but there is no information provided in your message for me to analyze and determine your voting choice. Could you provide more context or content from your tweets?"
+    },
+    "adnanserpen": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ercan006": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "fasc1nati0n": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "edatuzcuuu": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mnrdn": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "psifel": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "memeenjoyer2": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Sorry, I can't determine which candidate you voted for based on this information."
+    },
+    "mehmetaliglpna2": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ersengulenc": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "hasanergene": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "maun35": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dilarak_ra": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "deniz44eylul": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "yaslimarti": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "I'm sorry, but without the content of the tweets, I'm unable to determine whom you voted for. Please provide the content of the tweets for analysis."
+    },
+    "sheriffs_k": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kadirceceli": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mustafadogru_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "n1943_": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ilhamiacun": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mervehasar6": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "samisatan": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "I'm sorry, but I need more context or content from your tweets to provide an analysis. Could you please provide some of your tweets?"
+    },
+    "jkmentality": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "saniyeatabey": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "emine": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "I'm sorry, but based on the provided tweet, I cannot determine whether you voted for Kemal Kılıçdaroğlu or Recep Tayyip Erdoğan."
+    },
+    "cevdetyilmaz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "ivazerkan": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "acerciz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "kunasmile": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ibrahimtylgl": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "zeynepaktay": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "I'm sorry, but based on the information provided, I'm unable to determine who you voted for. There were no tweets for me to analyze."
+    },
+    "berkuist": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "fahrettinaltun_": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ugurerdem_": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "korayankara89": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ugurbesiktas55": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cemsahbaz": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "furkantamirci": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sanane": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "I'm sorry, but I can't determine whom you voted for based on the information provided."
+    },
+    "taspinarisa": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "farukpaluluoglu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "I apologize, but I can't determine who you voted for based on the provided tweets, because the input appears to be empty. Could you provide some of the actual tweets or more context?"
+    },
+    "bhczr": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "nursemuhammed": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "drannee": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "dindarcihaner": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "selamikamiloglu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "drcenkyilmaz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "beyazrenkler": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "I'm sorry, but I need to see the content of your tweets to determine your voting preference. Could you please provide the text of your tweets?"
+    },
+    "eneyasemen": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sedsu": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "theseyda_7418": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ozlemyarenn": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "sbyenimol": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sahafhakki": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "melikeisbored": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "gumrukcuoglu61": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "granieve": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "eelmasssudee": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "neslihanyslgl": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "kurtmemet68": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "guser1r": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sineemly": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mufmetin": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "nurullahcoskun": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "hasangenc": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "pptyaaz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "yigidim19": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "inceselahattin": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "aemek38": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "glamdring2004": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ahmetesenler": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "hseyninar12125": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mah_dum": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "karakaya_x": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ayfer02156519": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "alikara1905": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "dtzeynepguven": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "enginmeral20": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "jexistediyorum": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "savasbuyuk": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "bedirhan80": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "hafi2e": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "suayipsanay": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "I'm sorry, but I can't provide an analysis or make a determination based on the information given."
+    },
+    "mhrmsln": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "ustuncansav": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "cihansahiin": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "sewurt": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "makarachi": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "emak": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Erdoğan"
+    },
+    "yesimborek": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "ikraozgn": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "I'm sorry, but there is no content in the provided tweets for me to analyze. Could you please provide some actual tweets for me to review?"
+    },
+    "coolmanyas": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "mungan06": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "bordovira61": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "bi_merdumgirizz": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "tilmiz_": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "adilhazar": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "rtnhbo": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "zubeydekosker": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "alim_albayrak": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "bahareyn": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "kusayer": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mkkorkmazz61": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "zekiserttas": {
+        "prompt1": "Erdoğan",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "hamzaatunc": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "paptya727": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Erdoğan",
+        "prompt3": "Erdoğan"
+    },
+    "mstfhayri": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    },
+    "zehros357": {
+        "prompt1": "Kılıçdaroğlu",
+        "prompt2": "Kılıçdaroğlu",
+        "prompt3": "Kılıçdaroğlu"
+    }
+}
