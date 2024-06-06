@@ -46,7 +46,11 @@
 %%
 %%
 \documentclass[sigconf,natbib=false]{acmart}
+\usepackage{graphicx}
 \usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{geometry}
+
 %%
 %% \BibTeX command to typeset BibTeX logo in the docs
 \AtBeginDocument{%
@@ -64,9 +68,7 @@
 \acmDOI{10.1145/3630744.3659831}
 
 %% These commands are for a PROCEEDINGS abstract or paper.
-\acmConference[Conference acronym '24]{Make sure to enter the correct
-  conference title from your rights confirmation emai}{June 03--05,
-  2018}{Woodstock, NY}
+\acmConference[WebSci '24]{16th ACM Web Science Conference 2024}{May 21--24, 2024}{Stuttgart, Germany}
 %%
 %%  Uncomment \acmBooktitle if the title of the proceedings is different
 %%  from ``Proceedings of ...''!
@@ -116,6 +118,7 @@
 % \addbibresource{sample-base.bib}
 
 \usepackage[numbers]{natbib}
+
 \bibliographystyle{ACM-Reference-Format}
 
 
@@ -203,8 +206,6 @@ This article explores how large language models (LLMs) can reflect human prefere
 %% information and builds the first part of the formatted document.
 \maketitle
 
-
-
 \section{Introduction}
 This study aims to assess the predictive accuracy and bias of Large Language Models (LLMs) when fed with social media data in forecasting voter behavior. It has been argued that biases in the training data of large language models reflect the real tendencies in society \cite{Argyle2023}; simulation studies have been conducted based on the capacity of large language models to reflect society \cite{Agnew2024}. In this field, existing surveys or experiments are replicated using large language models, and their compatibility with existing survey and experiment results is examined \cite{Agnew2024, Aher2023}.
 
@@ -212,44 +213,81 @@ Discussions on whether large language models can replace actual survey and exper
 
 This disposition to essentialize identities may lead to a nonproductive line of research where identities are linked with unchanging or fixed characteristics, behaviors, or ideas. Adding self-produced information to the simulation process instead of just demographic information may enrich the results and solve some of the problems that arose due to the lack of information about the related simulated identities. Secondly, feeding the simulations with real-world information about the user may prevent or balance the essentializing tendency of large language models by providing unfixed stances and opinions. On top of that, adding user-generated information may be the cure to the problem of the source of group-related informations \cite{Wang2024}, that is since they are expressed by the user they may reflect the real tendencies of a population, instead of the prejudices towards them.
 
-In this study, we utilized large language models (LLMs) to assess their predictive power on voter behavior by employing different types of data inputs. Specifically, we compared the following three prompting scenarios:
+In this study, we utilized large language models (LLMs) to assess their predictive power on voter behavior by employing different types of data inputs. Specifically, we compared the following three data input strategies:
 
-\begin{table*}
-  \caption{Confusion matrix of the different models and prompting strategies}
-  \label{tab:confusion}
-  \begin{tabular}{cccccc}
-    \toprule
-    \multirow{2}{*}{Model ID} & \multicolumn{2}{c}{Actual Kılıçdaroğlu} & \multicolumn{2}{c}{Actual Erdoğan} \\
-    \cmidrule(lr){2-3} \cmidrule(lr){4-5}
-     & Predicted Kılıçdaroğlu & Predicted Erdoğan & Predicted Kılıçdaroğlu & Predicted Erdoğan \\
-    \midrule
-    Model: 3.5, Prompt: 1 & 651 & 57 & 72 & 8 \\
-    Model: 3.5, Prompt: 2 & 644 & 64 & 56 & 24 \\
-    Model: 3.5, Prompt: 3 & 648 & 60 & 59 & 21 \\
-    Model: 4, Prompt: 1 & 577 & 131 & 56 & 24 \\
-    Model: 4, Prompt: 2 & 600 & 108 & 34 & 46 \\
-    Model: 4, Prompt: 3 & 567 & 141 & 29 & 51 \\
-    \bottomrule
-  \end{tabular}
-\end{table*}
-
+\begin{figure*}[ht]
+    \centering
+    \includegraphics[width=\textwidth]{confusion_matrices.png}
+    \caption{Confusion matrix of the different models and prompting strategies}
+    \label{fig:confusion}
+\end{figure*}
 
 \begin{itemize}
-    \item \textbf{Scenario 1:} Only demographic data — The model was prompted using basic demographic information such as age, education, ethnicity, gender, and location.
-    \item \textbf{Scenario 2:} Demographic data and random tweets — The model received a combination of demographic information and a random selection of 30 tweets, including favorites and retweets, from the user's Twitter account.
-    \item \textbf{Scenario 3:} Only random tweets of a Twitter user — The model's input consisted solely of random tweets from the user's Twitter account.
+    \item \textbf{Demographic Data Only:} The model was prompted using basic demographic information such as age, education, ethnicity, gender, and location.
+    \item \textbf{Demographic Data with Tweets:} The model received a combination of demographic information and a random selection of 30 tweets, including favorites and retweets, from the user's Twitter account.
+    \item \textbf{Tweets Only:} The model's input consisted solely of random tweets from the user's Twitter account.
 \end{itemize}
 
-The effectiveness of these scenarios was evaluated based on their success scores using two versions of the ChatGPT model: 3.5 and 4. The results were then compared with the political preferences indicated by the users in a survey we conducted among Twitter users.
+The effectiveness of these scenarios was evaluated using precision, recall, and F1 scores for two versions of the models: GPT-3.5 \footnote{gpt-3.5-turbo-0125} and GPT-4-turbo \footnote{gpt-4-turbo-2024-04-09}. The results were then compared with the political preferences indicated by the users in a survey we conducted among Twitter users.
 
 \section{Method}
-This study is based on social media and survey data collected as part of the Politus project. The survey data was gathered between the first and second rounds of the 2023 Turkish presidential elections. The survey was conducted using Twitter ads and asked participants’ consent to link their responses with their Twitter accounts, providing their usernames. Approximately 2,000 individuals completed the survey and half of these respondents’ survey answers successfully linked with their Twitter accounts. Tweets from these linked profiles were then collected.
+This study is based on social media and survey data collected as part of the Politus project. The survey data was gathered between the first and second rounds of the 2023 Turkish presidential elections. The survey was conducted using Twitter ads and asked participants' consent to link their responses with their Twitter accounts, providing their usernames. Approximately 2,000 individuals completed the survey and half of these respondents' survey answers successfully linked with their Twitter accounts. Tweets from these linked profiles were then collected.
 
-Prompts containing three different types of information were prepared and presented to two different models (ChatGPT 3.5 and 4). The first prompt included only demographic information (age, education, ethnicity, gender, and location) gathered from the survey. The second prompt included these demographic details plus a random selection of 30 tweets (including favorites and retweets) from the relevant user, while the third prompt contained only the random tweets. These prompts were used to predict which candidate the users likely voted for during the second round of the 2023 presidential elections. Responses indicating "I did not vote" in the survey were ignored in the analysis.
+Prompts containing three different types of information were prepared and presented to two OpenAI models (GPT-3.5 and GPT-4-turbo). The first prompt included only demographic information (age, education, ethnicity, gender, and location) gathered from the survey. The second prompt included these demographic details plus a random selection of 30 tweets (including favorites and retweets) from the relevant user, while the third prompt contained only the random tweets. These prompts were used to predict which candidate the users likely voted for during the second round of the 2023 presidential elections. Responses indicating "I did not vote" in the survey were ignored in the analysis.
+
+
+\subsection{Dataset}
+The dataset comprises demographic data and linked Twitter data. Below are some examples from the demographic data:
+
+\begin{table}[h]
+  \caption{Examples from the demographic dataset}
+  \label{tab:dataset}
+  \begin{tabular}{ccccc}
+    \toprule
+    \textbf{Username} & \textbf{Age} & \textbf{Education} & \textbf{Ethnicity} & \textbf{City} \\
+    \midrule
+    user1 & 59 & university graduated & Turkish & Istanbul \\
+    user2 & 37 & PhD holder & Turkish & Ankara \\
+    user3 & 21 & high-school graduated & Turkish & Çanakkale \\
+    user4 & 28 & master's degree & kurdish & Mardin \\
+    user5 & 62 & university graduated & Arab & Adana \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+
+    
+\begin{table}[h]
+  \caption{Political Support Distribution}
+  \label{tab:supporters}
+  \begin{tabular}{lcc}
+    \toprule
+    \textbf{Candidate} & \textbf{Number of Supporters} \\
+    \midrule
+    Kemal Kılıçdaroğlu & 708 \\
+    Recep Tayyip Erdoğan & 80 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=\linewidth]{age.png}
+  \caption{Age distribution of users in the dataset.}
+  \label{fig:age_distribution}
+\end{figure}
+
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=\linewidth]{education.png}
+  \caption{Education distribution of users in the dataset.}
+  \label{fig:age_distribution}
+\end{figure}
 
 
 \section{Results and Discussions}
-The general results indicate that the ChatGPT 4 model performed better than the 3.5 model across all prompt types. Additionally, prompts that included social media data were more successful than those containing only demographic information. The most successful scenario, excluding the recall score of ChatGPT 4, was when demographic information and tweets were presented together. Presenting only tweets was found to be more advantageous than presenting only demographic information.
+The general results indicate that the GPT-4-turbo model performed better than the GPT-3.5 model across all prompt types. Additionally, prompts that included social media data were more successful than those containing only demographic information. The most successful strategy, excluding the recall score of GPT-4-turbo, was when demographic information and tweets were presented together. Presenting only tweets was found to be more advantageous than presenting only demographic information.
 
 \begin{figure}[ht]
   \centering
@@ -259,7 +297,7 @@ The general results indicate that the ChatGPT 4 model performed better than the 
   \label{fig:graph1}
 \end{figure}
 
-Due to a significant imbalance between the two candidates' supporters among survey respondents (Erdoğan: 164, Kılıçdaroğlu: 666), these numbers might be misleading. It is crucial to consider the supporters of each candidate separately to better assess the biases of different prompts and models. The Figure \ref{fig:graph2} shows the precision, recall, and F1 scores for both groups separately. The scores for Kılıçdaroğlu supporters do not vary significantly across models, showing high precision, recall, and F1 scores. However, while Erdoğan supporters generally reflect the pattern that observed in general scores, achieving the highest scores in the scenario combining demographic information with tweets (again, excluding the recall score of ChatGPT-4), the scores for Kılıçdaroğlu supporters tend to decrease in the ChatGPT 4 model.
+Due to a significant imbalance between the two candidates' supporters among survey respondents, these numbers might be misleading. It is crucial to consider the supporters of each candidate separately to better assess the biases of different prompts and models. Figure \ref{fig:graph2} shows the precision, recall, and F1 scores for both groups separately. The scores for Kılıçdaroğlu supporters do not vary significantly across models, showing high precision, recall, and F1 scores. However, while Erdoğan supporters generally reflect the pattern observed in general scores, achieving the highest scores in the strategy combining demographic information with tweets (again, excluding the recall score of GPT-4-turbo), the scores for Kılıçdaroğlu supporters tend to decrease in the GPT-4-turbo model.
 
 \begin{figure}[ht]
   \centering
@@ -269,23 +307,40 @@ Due to a significant imbalance between the two candidates' supporters among surv
    \label{fig:graph2}
 \end{figure}
 
-When it comes to Erdoğan supporters, there is a notable tendency for models to misclassify them. Moreover, the inclusion of tweets has improved the performance of models in all aspects. One might expect that models would more successfully identify Erdoğan supporters in contexts where only tweets are presented due to the misleading nature of presenting demographic information. Nevertheless, the highest recall scores were achieved in the scenario using the ChatGPT 4 model and tweets without demographic information, whereas the performance of the ChatGPT 3.5 model declined in this scenario.
+To address the imbalance issue, we analyzed a balanced sample of 180 respondents (80 Erdoğan supporters and 80 Kılıçdaroğlu supporters). The results are shown in Figure \ref{fig:graph3}. The balanced dataset analysis indicates that the overall trends remain consistent, with the GPT-4-turbo model outperforming across all prompting strategies. However, precision, recall, and F1 scores for both groups are more comparable, offering a clearer view of model performance without sample size imbalance.
 
 \begin{figure}[ht]
   \centering
   \includegraphics[width=\linewidth]{graph3.png}
+  \caption{Performance scores of different models and prompting strategies with a balanced sample size (80 Erdoğan, 80 Kılıçdaroğlu).}
+  \Description{This graph shows the performance scores for different models and prompting strategies with a balanced sample size, indicating consistent trends with the unbalanced analysis.}
+  \label{fig:graph3}
+\end{figure}
+
+For Erdoğan supporters, models often misclassify them. The inclusion of tweets has enhanced model performance across all metrics. One might expect better identification of Erdoğan supporters when only tweets are used, as demographic information can be misleading. However, the highest recall scores were achieved with the GPT-4-turbo model using tweets without demographic data, while GPT-3.5 performance declined in this scenario.
+
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=\linewidth]{graph4.png}
   \caption{Class-specific bias comparison by model.}
   \Description{This graph shows a class-specific bias comparison by model, with a decrease in bias towards labeling users as Kılıçdaroğlu and an increase in labeling as Erdoğan in model 4 compared to model 3.5.}
 \end{figure}
 
-According to table~\ref{tab:confusion}, models mark actual Erdoğan supporters as Kılıçdaroğlu supporters less frequently as we move from model 3.5 to 4, and from prompts without tweets to those with tweets. Additionally, the tendency of models to misclassify Kılıçdaroğlu supporters as Erdoğan supporters has similarly increased. Beyond the differences between models, the inclusion of tweets also seems to have led models to better identify and overpredict Erdoğan. Examining results on individual levels can say important things about biases in the models. Unfortunately, data insufficiency makes it impossible to examine each level individually.
+According to Figure \ref{fig:confusion}, models mark actual Erdoğan supporters as Kılıçdaroğlu supporters less frequently as we move from GPT-3.5 to GPT-4-turbo, and from prompts without tweets to those with tweets. Additionally, the tendency of models to misclassify Kılıçdaroğlu supporters as Erdoğan supporters has similarly increased. Beyond the differences between models, the inclusion of tweets also seems to have led models to better identify and overpredict Erdoğan. Examining results on individual levels can provide important insights about biases in the models. Unfortunately, data insufficiency makes it impossible to examine each level individually.
+
 
 \section{Conclusion}
 This study provided a comparative analysis of Large Language Models (LLMs) in terms of their ability to predict voter behavior using different types of data inputs, specifically demographic information versus social media content. Our findings demonstrate that LLMs incorporating a mix of demographic and tweet data deliver the most accurate predictions. This superior performance suggests that the integration of real-time, self-generated user data can significantly enhance the model's understanding of complex human behaviors and preferences, reducing the occurrence of biases typically seen in models trained solely on demographic data.
 
-Moreover, the results highlight the importance of model version updates, as ChatGPT 4 outperformed its predecessor in all scenarios. This underscores the continuous improvements in model architectures and training methodologies, contributing to more sophisticated data processing capabilities.
+Moreover, the results highlight the importance of model version updates, as GPT-4-turbo outperformed its predecessor in all scenarios. This underscores the continuous improvements in model architectures and training methodologies, contributing to more sophisticated data processing capabilities.
 
-Future research should focus on expanding the datasets to include more diverse demographic groups and more extensive social media interactions to further validate these findings. Additionally, exploring other forms of social media data and incorporating multi-modal data sources could potentially unveil new insights and enhance the predictive power of LLMs even further. Our study sets the stage for more nuanced and complex applications of LLMs in social sciences, particularly in understanding and predicting voter behavior dynamics.
+\subsection{Limitations}
+This study has several limitations. The dataset, primarily consisting of Twitter users, may not be fully representative of the general population, introducing a potential bias toward more tech-savvy individuals. Additionally, the imbalance in the number of supporters for each candidate could have influenced the model's performance. The focus on Twitter data alone may not capture the full spectrum of an individual's online behavior and preferences.
+
+\subsection{Future Work}
+Future research should expand datasets to include more diverse demographic groups and social media interactions. Exploring other social media platforms like Facebook, Instagram, and LinkedIn, as well as incorporating multi-modal data sources such as images and videos, could provide further insights. Investigating different data preprocessing techniques and model fine-tuning strategies could optimize performance. Longitudinal studies tracking voter behavior over time with continuous data collection methods could offer deeper insights into voter preference dynamics.
+
 
 
 %%
